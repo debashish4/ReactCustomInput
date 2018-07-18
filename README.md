@@ -1,5 +1,5 @@
 <h3>
-    React based Custom input Component
+    React based IP address Custom input Component
 </h3>
 <p>React based custom input component for IP address.</p>
 
@@ -15,4 +15,4 @@
 <h3>
     See the demo
 </h3>
-<a href="https://debashish4.github.io/ReactCustomInput" target="_blank">Demo</p>
+<a href="https://debashish4.github.io/ReactCustomInput" target="_blank">Ip Address Input Demo</p>
