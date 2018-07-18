@@ -15,4 +15,4 @@
 <h3>
     See the demo
 </h3>
-<a href="https://debashish4.github.io/ReactCustomInput" target="_blank"></p>
+<a href="https://debashish4.github.io/ReactCustomInput" target="_blank">Demo</p>
